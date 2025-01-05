@@ -1,0 +1,3 @@
+sudo get update
+
+sudo install nginix -y
